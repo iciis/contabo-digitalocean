@@ -138,18 +138,18 @@ Linode provides reliable, high-performance Linux VMs with strong support and a c
 
 ### Contabo VPS Key Features
 
-**Extreme Resource Allocation:**
+1. **Extreme Resource Allocation:**
 Contabo's defining feature is providing exceptionally high amounts of vCPU cores, RAM, and storage (NVMe/SSD options) for its price, offering maximum raw power on a budget.
 
 <a href="https://afftrend.com/contabo">
   <img src="https://drive.google.com/uc?export=view&id=1nEzYubzMLew177Ox3HqZw1XqipFBnVu2"  alt="Contabo Extreme Resource Allocation">
 </a>
 
-**NVMe Optimization & Storage Choices:**
+2. **NVMe Optimization & Storage Choices:**
 
 Offers fast NVMe SSDs for performance-sensitive tasks ("NVMe Optimization" noted) alongside standard SSD options, plus specialized "Storage VPS" with very large SSD capacities.
 
-**Windows Server Options & Features:**
+3. **Windows Server Options & Features:**
 
 Provides fully licensed Windows Server VPS with specific optimizations like "Hotpatching," "Secured-Core Technology," and "Azure-ready Hybrid Cloud" features.
 
@@ -157,7 +157,7 @@ Provides fully licensed Windows Server VPS with specific optimizations like "Hot
   <img src="https://drive.google.com/uc?export=view&id=1qgYpOaAGJopMzM8mFpSwp8IVr7Om7X6F"  alt="Contabo *Windows Server">
 </a>
 
-**Multiple Global Data Centers:**
+4. **Multiple Global Data Centers:**
    
 Users can select from various data center locations across Europe, the USA, the UK, Asia (Singapore, Japan), and Australia, enabling strategic server placement.
 
@@ -165,7 +165,7 @@ Users can select from various data center locations across Europe, the USA, the 
   <img src="https://drive.google.com/uc?export=view&id=1uykuqhuIn_2hGFYxCT611yZgqeQdvnYX"  alt="Contabo Multiple source allocations">
 </a>
 
-**Optional Auto Backups & Control Panels:**
+5. **Optional Auto Backups & Control Panels:**
    
 Offers add-on services such as automated backups and supports common control panels like cPanel/Plesk (licenses extra) for easier server management.
 
@@ -178,7 +178,7 @@ Offers add-on services such as automated backups and supports common control pan
 1. **Web & Mobile Apps**
 
 <a href="https://afftrend.com/digitalocean">
-  <img src="https://drive.google.com/uc?export=view&id=1ZqxIIKM7daXN64eoZ8bnA2DG46R3vVv"  alt="Digitalocean Web & mobile App">
+  <img src="https://drive.google.com/uc?export=view&id=1ZqxIIKM7daXN64eoZ8bnA2DG46R3vVvI"  alt="Digitalocean Web & Mobile Apps">
 </a>
 
 DigitalOcean offers fast and scalable backend solutions to power your web and mobile applications. It enables developers to build, deploy, and manage apps effortlessly with a reliable infrastructure, minimizing latency and maximizing uptime to support agile development and business innovation.
