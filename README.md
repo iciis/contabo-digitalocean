@@ -290,7 +290,9 @@ Both DigitalOcean and Linode offer more granular instance types (CPU-optimized, 
 
 **Step: 1 - Sign Up & Order:** Visit the provider's website, choose a Cloud VPS or Dedicated Servers. Register, select data center, OS, and complete payment. Identity verification may be needed.
 
-![Powerful-Dedicated-Servers-Hosting-at-an-Unbeatable-Price-💪-Contabo-05-08-2025_01_05_AM.webp](attachment:681749d8-65c9-4766-8ad8-f9273fcd87e1:Powerful-Dedicated-Servers-Hosting-at-an-Unbeatable-Price--Contabo-05-08-2025_01_05_AM.webp)
+<a href="https://afftrend.com/contabo">
+  <img src="https://drive.google.com/uc?export=view&id=16n9v0bwbZ0tBf7oB0XBoAwlcn1yYoaix"  alt="Contabo Signup page">
+</a>
 
 **Step: 2 Get Credentials:** Receive server IP, root username, and password via email after provisioning.
 
